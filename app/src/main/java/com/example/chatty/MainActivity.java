@@ -61,6 +61,7 @@ public class MainActivity extends AppCompatActivity {
                                 list.add(snapshot.getKey());
 
                                 userAdapter.notifyDataSetChanged();
+
                             }
 
 
